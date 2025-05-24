@@ -1,0 +1,8 @@
+Create folders for the following images:
+- profile.jpg (profile photo)
+- about.jpg (about section photo)
+- project-travel.jpg (JourniXplorer project screenshot)
+- project-airline.jpg (SkyNest Airlines project screenshot)
+- project-portfolio.jpg (portfolio project screenshot)
+
+These should be replaced with actual images when the portfolio is deployed.
