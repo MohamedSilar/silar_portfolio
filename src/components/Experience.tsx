@@ -110,7 +110,7 @@ const Experience: React.FC = () => {
 
             <div className="space-y-2">
               <ExperienceItem
-                date="2020 - Present"
+                date="2022 - Present"
                 title="B.Tech Information Technology"
                 organization="Velammal College of Engineering & Technology"
                 description="Currently pursuing B.Tech in Information Technology with a CGPA of 7.98 (up to 5th semester). Focusing on programming, data structures, and software development."
@@ -118,7 +118,7 @@ const Experience: React.FC = () => {
               />
 
               <ExperienceItem
-                date="2018 - 2020"
+                date="2021 - 2022"
                 title="Higher Secondary Certificate (HSC)"
                 organization="Algumalar Matriculation Higher Secondary School"
                 description="Completed HSC with 75.5%, focusing on Mathematics, Physics, and Computer Science."
@@ -126,7 +126,7 @@ const Experience: React.FC = () => {
               />
 
               <ExperienceItem
-                date="2018"
+                date="2019 - 2020"
                 title="Secondary School Leaving Certificate (SSLC)"
                 organization="Vatsalaya Matriculation Higher Secondary School"
                 description="Completed SSLC with 75.0%, developing a strong foundation in mathematics and science."
