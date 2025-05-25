@@ -93,7 +93,7 @@ To install and run this project locally, follow these steps:
      ```
 
 4. **Visit your site:**
-   👉 [https://MohamedSilar.github.io/silar\_portfolio]((https://silar.netlify.app/))
+   👉 [ https://silar.netlify.app/ ]
 
 ---
 
