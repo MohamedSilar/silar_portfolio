@@ -20,7 +20,7 @@ const Projects: React.FC = () => {
       id: 1,
       title: "JourniXplorer - AI Travel Planner",
       description: "Built a responsive travel planner using HTML, CSS, and JavaScript. Implemented animated UI, dynamic form handling, and scroll effects. Deployed seamlessly on Vercel with GitHub integration.",
-      image: "/images/flight.png",
+      image: "/images/ai1.png",
       tags: ["HTML", "CSS", "JavaScript", "Responsive Design", "Animation"],
       github: "https://github.com/MohamedSilar/JourniXplorer-Travel-Planner",
       live: "https://journixplorer-travel-planner.netlify.app/"
