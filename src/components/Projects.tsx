@@ -15,11 +15,12 @@ const Projects: React.FC = () => {
   const [activeProject, setActiveProject] = useState<number | null>(null);
 
   const projects: Project[] = [
+    
     {
       id: 1,
       title: "JourniXplorer - AI Travel Planner",
       description: "Built a responsive travel planner using HTML, CSS, and JavaScript. Implemented animated UI, dynamic form handling, and scroll effects. Deployed seamlessly on Vercel with GitHub integration.",
-      image: "/images/ai1.png",
+      image: "/images/cloud.jpg",
       tags: ["HTML", "CSS", "JavaScript", "Responsive Design", "Animation"],
       github: "https://github.com/MohamedSilar/JourniXplorer-Travel-Planner",
       live: "https://journixplorer-travel-planner.netlify.app/"
@@ -28,15 +29,16 @@ const Projects: React.FC = () => {
       id: 2,
       title: "SkyNest Airlines - Airline Management System",
       description: "Built an Airline Management System using Java Swing and SQL. Implemented flight booking, schedule management, and custom airline branding. The system provides a comprehensive solution for managing airline operations.",
-      image: "/images/a3.jpg",
+      image: "/images/silar2.jpg",
       tags: ["Java", "Swing", "SQL", "OOP", "Database"],
       github: "https://github.com/MohamedSilar/skynest-airlines"
     },
+    
     {
       id: 3,
       title: "Food Coma - Food Ordering Application",
       description: "Developed a food ordering application using Android Studio with Java and XML. Features include an intuitive UI, food cart management, and a seamless ordering process tailored for mobile users.",
-      image: "/images/foodapp.png",
+      image: "/img/flight.png",
       tags: ["Android Studio", "Java", "XML", "Mobile App"],
       github: "https://github.com/MohamedSilar/FOOD-COMA"
     }
