@@ -31,7 +31,7 @@ const Projects: React.FC = () => {
       description: "Built an Airline Management System using Java Swing and SQL. Implemented flight booking, schedule management, and custom airline branding. The system provides a comprehensive solution for managing airline operations.",
       image: "/images/cloud.jpg",
       tags: ["Java", "Swing", "SQL", "OOP", "Database"],
-      github: "https://github.com/MohamedSilar/skynest-airlines"
+      github: "https://github.com/MohamedSilar/SkyNest-Airlines-Management"
     },
     
     {
