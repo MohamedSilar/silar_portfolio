@@ -23,7 +23,7 @@ const Projects: React.FC = () => {
       image: "/images/ai1.png",
       tags: ["HTML", "CSS", "JavaScript", "Responsive Design", "Animation"],
       github: "https://github.com/MohamedSilar/JourniXplorer-Travel-Planner",
-      live: "https://journey-explorer.netlify.app/"
+      live: "https://journe.netlify.app/profile"
     },
     {
       id: 2,
