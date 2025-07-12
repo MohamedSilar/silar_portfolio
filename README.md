@@ -3,7 +3,7 @@ Welcome to the **Silar Portfolio** repository! This is a modern, responsive deve
 
 ---
 
-## Table of Contents  
+## Table of Contents 
 1. Features  
 2. Installation  
 3. Usage  
