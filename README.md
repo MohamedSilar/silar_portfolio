@@ -1,4 +1,4 @@
-# Silar Portfolio - Personal Developer Portfolio 💼  
+# Silar Portfolio - Personal Developer Portfoli0 💼  
 Welcome to the **Silar Portfolio** repository! This is a modern, responsive developer portfolio built with React, TypeScript, and JavaScript to showcase projects, skills, and experiences in a sleek, interactive format. Designed with scalability and performance in mind, this site reflects professional creativity and technical proficiency.
 
 ---
