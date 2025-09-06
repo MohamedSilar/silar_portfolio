@@ -102,7 +102,7 @@ const About: React.FC = () => {
               </a>
               
               <a 
-                href="images/Resume.pdf" 
+                href="images/MHD_SILAR_RESUME.pdf" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="px-6 py-3 border border-blue-600 text-blue-600 rounded-md font-medium hover:bg-blue-50 transition-colors duration-300"
