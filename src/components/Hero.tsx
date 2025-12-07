@@ -113,7 +113,7 @@ const Hero: React.FC = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 bg-blue-500 rounded-full absolute -z-10 top-4 -right-4 opacity-10 animate-pulse"></div>
               <div className="w-52 h-52 md:w-64 md:h-64 bg-blue-300 rounded-full absolute -z-10 -bottom-4 -left-4 opacity-10 animate-pulse" style={{ animationDelay: "300ms" }}></div>
               <div className="w-64 h-64 md:w-80 md:h-80 bg-gray-200 rounded-full relative overflow-hidden border-4 border-white shadow-xl transform transition-transform duration-500 hover:scale-105">
-                <img src={`${import.meta.env.BASE_URL}images/silar2.jpg`} alt="Silar" />
+                <img src={`${import.meta.env.BASE_URL}images/SILAR IMAGE.jpg`} alt="Silar" />
 
               </div>
             </div>
