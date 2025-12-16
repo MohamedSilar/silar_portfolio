@@ -22,7 +22,7 @@ const Projects: React.FC = () => {
   description: "Developed a modular healthcare chatbot using Zoho SalesIQ, implementing multiple conversational workflows for appointments, payments, wellness, and user assistance. Integrated 20+ APIs for real-time scheduling, OTP verification, payments, notifications, and health data, ensuring secure and scalable automation.",
   image: "/images/medd.png",
   tags: ["Zoho SalesIQ", "Deluge", "APIs", "JSON", "Healthcare", "Automation"],
-  github: "https://github.com/MohamedSilar/Medkit",
+  github: "https://github.com/MohamedSilar/MEDKITT",
   live: "https://medkitt.netlify.app/"
 },
     {
