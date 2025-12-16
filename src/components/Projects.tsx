@@ -17,14 +17,14 @@ const Projects: React.FC = () => {
   const projects: Project[] = [
     
     {
-      id: 1,
-      title: "JourniXplorer - AI Travel Planner",
-      description: "Built a responsive travel planner using HTML, CSS, and JavaScript. Implemented animated UI, dynamic form handling, and scroll effects. Deployed seamlessly on Vercel with GitHub integration.",
-      image: "/images/ai1.png",
-      tags: ["HTML", "CSS", "JavaScript", "Responsive Design", "Animation"],
-      github: "https://github.com/MohamedSilar/JourniXplorer-Travel-Planner",
-      live: "https://journey-explorer.netlify.app/"
-    },
+  id: 1,
+  title: "MedKit – Digital Healthcare Chatbot",
+  description: "Developed a modular healthcare chatbot using Zoho SalesIQ, implementing multiple conversational workflows for appointments, payments, wellness, and user assistance. Integrated 20+ APIs for real-time scheduling, OTP verification, payments, notifications, and health data, ensuring secure and scalable automation.",
+  image: "https://strange-aqua-5yfklivwfj-muznn4xg3b.edgeone.dev/MEDOOO.jpg",
+  tags: ["Zoho SalesIQ", "Deluge", "APIs", "JSON", "Healthcare", "Automation"],
+  github: "https://github.com/MohamedSilar/MEDKITT",
+  live: "https://medkitt.netlify.app/"
+},
     {
       id: 2,
       title: "SkyNest Airlines - Airline Management System",
