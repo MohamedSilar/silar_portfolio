@@ -52,7 +52,7 @@ const Skills: React.FC = () => {
       icon: <Code size={24} />,
       skills: [
         { name: 'Java', proficiency: 85 },
-        { name: 'C', proficiency: 65 },
+        { name: 'Python', proficiency: 65 },
       ]
     },
     {
