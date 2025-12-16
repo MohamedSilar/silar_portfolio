@@ -28,7 +28,7 @@ const About: React.FC = () => {
           <div className="md:w-6/12">
             <h3 className="text-2xl font-bold text-gray-800 mb-4">Information Technology Student</h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              I'm Mohamed Silar, a B.Tech Information Technology student with a 7.98 GPA (up to 5th semester) at Velammal College of Engineering & Technology. I'm passionate about developing applications that solve real-world problems and continuously expanding my knowledge in software development.
+              I'm Mohamed Silar, a B.Tech Information Technology student with a 8.0 CGPA (up to 6th semester) at Velammal College of Engineering & Technology. I'm passionate about developing applications that solve real-world problems and continuously expanding my knowledge in software development.
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
