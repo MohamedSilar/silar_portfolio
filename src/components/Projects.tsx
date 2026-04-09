@@ -27,11 +27,11 @@ const Projects: React.FC = () => {
 },
     {
       id: 2,
-      title: "SkyNest Airlines - Airline Management System",
-      description: "Built an Airline Management System using Java Swing and SQL. Implemented flight booking, schedule management, and custom airline branding. The system provides a comprehensive solution for managing airline operations.",
-      image: "/images/cloud.jpg",
-      tags: ["Java", "Swing", "SQL", "OOP", "Database"],
-      github: "https://github.com/MohamedSilar/SkyNest-Airlines-Management"
+      title: "NoteZy – iOS Task Management Application",
+      description: "Developed NoteZy, a productivity-focused iOS task management application using Swift, enabling users to efficiently create, organize, and track their daily tasks. The application features an intuitive UI, seamless task management operations (add, edit, delete), and a smooth user experience tailored for mobile productivity. Designed with scalability and usability in mind, the app demonstrates strong fundamentals in iOS development and clean architecture practices.",
+      image: "/images/NoteZy.jpg",
+      tags: ["Swift", "iOS Development", "SwiftUI", "Task Management App", "Mobile Productivity", "MVVM", "UI/UX"],
+      github: "https://github.com/MohamedSilar/NoteZy"
     },
     
     {
