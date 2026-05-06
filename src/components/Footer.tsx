@@ -28,9 +28,9 @@ const Footer: React.FC = () => {
         <hr className="border-gray-800 my-8" />
         
         <div className="flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Mohamed Silar. All rights reserved.
-          </p>
+         <p className="text-gray-400 mb-4 md:mb-0">
+  &copy; 2022 Mohamed Silar. All rights reserved.
+</p>
           
           <div className="flex space-x-4">
             <a 
