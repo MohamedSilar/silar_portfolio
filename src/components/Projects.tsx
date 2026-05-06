@@ -27,7 +27,7 @@ const Projects: React.FC = () => {
 },
     {
       id: 2,
-      title: "NoteZy – iOS Task Management Application",
+      title: "NoteZy – iOS Notes Management Application",
       description: "Developed NoteZy, a productivity-focused iOS task management application using Swift, enabling users to efficiently create, organize, and track their daily tasks. The application features an intuitive UI, seamless task management operations (add, edit, delete), and a smooth user experience tailored for mobile productivity. Designed with scalability and usability in mind, the app demonstrates strong fundamentals in iOS development and clean architecture practices.",
       image: "/images/NoteZy Wall.png",
       tags: ["Swift", "iOS Development", "SwiftUI", "Task Management App", "Mobile Productivity", "MVVM", "UI/UX"],
